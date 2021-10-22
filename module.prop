@@ -1,0 +1,8 @@
+id=mdk_magisk-x605buildpropfix
+name=Brand/Model UNKNOWN and other build.prop fixes for Lenovo TB-X605F
+version=v4.0
+versionCode=400
+author=MDK
+description=Based on Increase Volume steps by https://github.com/bladeSk/magisk-volume-steps blade.sk
+support=https://github.com/000MDK/magisk-x605propfix/
+
